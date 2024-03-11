@@ -1,0 +1,23 @@
+{
+  "name": "routing",
+  "version": "1.0.0",
+  "description": "Routing (Express)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2023317MaxDyson/Router.git"
+  },
+  "author": "Max Dyson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2023317MaxDyson/Router/issues"
+  },
+  "homepage": "https://github.com/2023317MaxDyson/Router#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
